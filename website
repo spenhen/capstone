@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <title>Welcome to my Website<t/title>
+        <h1>Welcome</h1>
+        <p>This is my Website. Hope you like it</p>
+<body>
+    <1-- Hello there --><!--><p>Hide me</p>
+</body>
+<section>
+    <h2>Favorite colours</h2>
+    <ol>
+        <li>Blue</li>
+        <li>Red</li>
+        <li>Green</li>
+    </ol>
+</section>
+,<footer>
+    <p>This is my very first Website, learning everday new things</p>
+</footer>
+</html>
