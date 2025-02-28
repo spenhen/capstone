@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
-<header>
-    <title>Welcome to my Website<t/title>
-        <h1>Welcome</h1>
+<html lang="en"></html>   
+<head>
+    <h1>Welcome to my Website</h1> 
         <p>This is my Website. Hope you like it</p>
-<body>
-    <1-- Hello there --><!--><p>Hide me</p>
+</head>
+<body>    
+    <!-- Hello there -->
 </body>
 <section>
     <h2>Favorite colours</h2>
@@ -14,8 +15,13 @@
         <li>Red</li>
         <li>Green</li>
     </ol>
-</section>
-,<footer>
-    <p>This is my very first Website, learning everday new things</p>
+    <ul>
+        <li>Apples</li>
+        <li>Bananas</li>
+        <li>Oranges</li>
+    </ul?
+</section> 
+<footer>
+    <p>Website made by Henry Spence</p>
 </footer>
 </html>
